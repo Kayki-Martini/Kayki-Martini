@@ -1,7 +1,7 @@
 ### Olá, eu sou o Kayki Martini
 
 - 🔭 Hoje não estou trabalhando, pois quero terminar primeiramente meu técnico.
-- 🌱 Estudando Php
+- 🌱 Estudando IOT.
 
 <div align="center">
   <a href="https://github.com/Kayki-Martini">
